@@ -1,6 +1,6 @@
 # Spore OS
 
-~~Spore OS is a local IPC protocol and runtime.  Nodes provide functionality that are routed between each other through a central hub.
+Spore OS is a local IPC protocol and runtime.  Nodes provide functionality that are routed between each other through a central hub.
 
 This repository holds org-wide community and governance documents.
 
