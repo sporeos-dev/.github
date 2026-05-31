@@ -10,9 +10,15 @@ This repository holds org-wide community and governance documents.
 | :--- | :--- |
 | [spore-os-protocol](https://github.com/sporeos-dev/spore-os-protocol) | Protocol specification and manifest schema. |
 | [spore-os](https://github.com/sporeos-dev/spore-os) | Central hub implementation. |
-| [spore-core-nodes](https://github.com/sporeos-dev/spore-core-nodes) | Shell, REPL, observer, logging, and dialog nodes. These all use the spore client library. |
+| [spore-core-nodes](https://github.com/sporeos-dev/spore-core-nodes) | Built-in nodes (dialog, shell, logging, witness). |
 | [spore-client-libs](https://github.com/sporeos-dev/spore-client-libs) | Go reference implementation for node-to-hub communication. |
 | [spore-install](https://github.com/sporeos-dev/spore-install) | Build, packaging, and installation scripts, etc. |
+
+## Releases
+
+No releases yet.
+
+---
 
 ## Community
 
@@ -21,3 +27,8 @@ This repository holds org-wide community and governance documents.
 - [Security](SECURITY.md) — responsible disclosure policy
 - [Licensing](LICENSING.md) — licensing model and roadmap across repositories
 
+---
+
+## FAQ
+
+No questions yet.
