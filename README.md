@@ -1,3 +1,7 @@
+
+> [!WARNING]
+> Spore OS is in an alpha/pre-alpha phase. Please use with caution.
+
 # Spore OS
 
 Spore OS is a local IPC protocol and runtime.  Nodes provide functionality that are routed between each other through a central hub.
