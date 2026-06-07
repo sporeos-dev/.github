@@ -21,6 +21,8 @@ This repository holds org-wide community and governance documents.
 
 Please read [DESIGN_DECISIONS](./DESIGN_DECISIONS.md) for more.
 
+Latest releases [here](https://sporeos.dev/releases).
+
 ## Repositories
 
 | Repository | Description |
@@ -30,10 +32,6 @@ Please read [DESIGN_DECISIONS](./DESIGN_DECISIONS.md) for more.
 | [spore-core-nodes](https://github.com/sporeos-dev/spore-core-nodes) | Built-in nodes (dialog, shell, logging, witness). |
 | [spore-client-libs](https://github.com/sporeos-dev/spore-client-libs) | Go reference implementation for node-to-hub communication. |
 | [spore-install](https://github.com/sporeos-dev/spore-install) | Build, packaging, and installation scripts, etc. |
-
-## Releases
-
-No releases yet.
 
 ---
 
