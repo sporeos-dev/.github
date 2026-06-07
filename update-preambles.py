@@ -5,11 +5,14 @@ import sys
 # --- CONFIGURATION ---
 # The list of sibling directories (neighbors)
 REPOS = [
+    ".github",
     "spore-os",
     "spore-os-protocol",
     "spore-core-nodes",
     "spore-client-libs",
-    "spore-install"
+    "spore-install",
+    "spore-dialog",
+    "e2e-testing"
 ]
 
 PREAMBLE_FILE = "repo-preamble.md"
