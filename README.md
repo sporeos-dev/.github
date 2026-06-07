@@ -19,6 +19,8 @@ Spore OS is a local IPC protocol and runtime.  Nodes provide functionality that 
 
 This repository holds org-wide community and governance documents.
 
+Please read [DESIGN_DECISIONS](./DESIGN_DECISIONS.md) for more.
+
 ## Repositories
 
 | Repository | Description |
